@@ -1,0 +1,13 @@
+
+	<!-- BEGIN MAIN MENU -->
+	<div id="mainMenu" >
+		<ul id="menu-topmenu" class="menu">
+			<li id="menu-item-10"><a title="Home page" href="">Home</a></li>
+			<li id="menu-item-168" ><a href="http://myob.com.au/myob-1258090781426">About</a></li>
+			<li id="menu-item-14" ><a title="We can help you" href="http://myob.com.au/accounting-practices/training-events-1258090678948">Services</a></li>	
+			<li id="menu-item-244" ><a href="http://myob.com.au/accounting-practices/accounting-products-1258090827787">Products</a></li>
+			<li id="menu-item-12" ><a title="Contact us" href="http://myob.com.au/accounting-practices/accounting---contact-us-1258090827812">Contact</a></li>
+		</ul>
+
+	</div>            
+	<!-- END MAIN MENU -->

@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="%META-KEYWORDS%" />
+<meta name="description" content="%META-DESCRIPTION%" />
+<title>%PAGE-TITLE%</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="resources/style.css"/>
+<link rel="stylesheet" type="text/css" href="resources/ddsmoothmenu.css" />
+
+<!--%HEAD-CONTENT%-->
+
+</head>
+<body id="home">
+
+<!-- BEGIN MAINWRAPPER -->
+<div id="mainWrapper">
+
+    <!-- BEGIN WRAPPER -->
+    <div id="wrapper">
+
+      <!-- BEGIN HEADER -->
+      <div id="header">
+	    <div id="logout"><!--%LOGOFF%--></div>
+            <div id="logo"><a href="http://myob.com.au"><img src="resources/images/logo.png" alt="MYOB - Love your work!" /></a>
+	    <div id="headingText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<!--%PAGE-HEADING%--></div>
+		
+		</div>
+
+
+<!--%HEADER-CONTENT%-->
+
+<!--%MAIN-MENU-CONTENT%-->
+
+<!--%MAIN-SEARCH-CONTENT%-->
+
+      </div>
+      <!-- END HEADER -->
+<!--%PAGE-BREADCRUMB%-->
+<!--%PAGE-SUBHEADING%-->
+<!--%SESSIONID%-->
+<!--%PRECONTENT%-->
+<!--%MAIN-CONTENT%-->
+<!--%POSTCONTENT%-->
+
+    </div>
+    <!-- END WRAPPER -->
+
+
+
+<!--%FOOTER-CONTENT%-->
+
+    <div id="footer">
+
+	<div id="footerWidgets">
+		<div id="footerWidgetsInner">
+
+			<!-- BEGIN COPYRIGHT -->
+			<div id="copyright">
+			© Copyright 2012 by <a href="http://www.myob.com">MYOB</a>. All Rights Reserved. 
+			<div id="myobbottom">Theme brought to you by <a href="http://myob.com.au/products/small-business/web-hosting-1258090823294">MYOB | Experts in Web Hosting.</a></div>
+			</div>
+			<!-- END COPYRIGHT -->						
+		</div>
+				
+	</div>
+    </div>
+
+
+
+</div>
+<!-- END MAINWRAPPER -->
+
+</body>
+</html>

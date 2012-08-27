@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>Accountants Live</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="resources/style.css"/>
+<link rel="stylesheet" type="text/css" href="resources/ddsmoothmenu.css" />
+
+
+</head>
+<body id="home">
+
+<!-- BEGINN MAINWRAPPER -->
+<div id="mainWrapper">
+
+    <!-- BEGIN WRAPPER -->
+    <div id="wrapper">
+
+      <!-- BEGIN HEADER -->
+      <div id="header">
+            <div id="logo"><a href="http://myob.com.au"><img src="resources/images/logo.png" alt="MYOB - Love your work!" /></a></div>
+
+	<div id="logon">
+		<form action="authenticate" method="get">
+		    <label for="login-username">Username</label>
+		    <input type="text" name="username" id="login-username" />
+		    &nbsp;&nbsp;
+		    <label for="login-password">Password</label>
+		    <input type="password" name="password" id="login-password" />
+		    &nbsp;&nbsp;
+		    <input id="loginbutton" type="submit" value="&nbsp;&nbsp;Login&nbsp;&nbsp;" />
+		</form>
+	</div>
+
+
+
+
+	<!-- BEGIN MAIN MENU -->
+	<div id="mainMenu" >
+		<ul id="menu-topmenu" class="menu">
+			<li id="menu-item-10"><a title="Home page" href="">Home</a></li>
+			<li id="menu-item-168" ><a href="http://myob.com.au/myob-1258090781426">About</a></li>
+			<li id="menu-item-14" ><a title="We can help you" href="http://myob.com.au/accounting-practices/training-events-1258090678948">Services</a></li>	
+			<li id="menu-item-244" ><a href="http://myob.com.au/accounting-practices/accounting-products-1258090827787">Products</a></li>
+			<li id="menu-item-12" ><a title="Contact us" href="http://myob.com.au/accounting-practices/accounting---contact-us-1258090827812">Contact</a></li>
+		</ul>
+
+	</div>            
+	<!-- END MAIN MENU -->
+
+	<div id="topSearch">
+		<form id="search" action="http://search.myob.com.au/search" method="get">
+			<input type="submit" value="" id="searchsubmit"/>
+			<input type="text" id="w" name="w" value="" />
+		</form>
+	</div>
+
+
+      </div>
+      <!-- END HEADER -->
+
+	<!-- BEGIN CONTENT -->
+	<div id="content">
+
+	   <div style="width:960px; margin:0 auto; background:url(resources/images/main.jpg) 0 0 no-repeat; height:370px;"></div>
+
+	   <div style="width:960px; margin:0 auto; background:url(resources/images/bk_shadow_slider.png) 0 0 no-repeat; height:50px;"></div>
+
+
+	 </div>
+	<!-- END CONTENT -->
+
+
+    </div>
+    <!-- END WRAPPER -->
+
+
+    <!-- BEGIN FOOTER -->
+    <div id="footer">
+
+	<div id="footerWidgets">
+		<div id="footerWidgetsInner">
+
+			<!-- BEGIN COPYRIGHT -->
+			<div id="copyright">
+			© Copyright 2012 by <a href="http://www.myob.com">MYOB</a>. All Rights Reserved. 
+			<div id="myobbottom">Theme brought to you by <a href="http://myob.com.au/products/small-business/web-hosting-1258090823294">MYOB | Experts in Web Hosting.</a></div>
+			</div>
+			<!-- END COPYRIGHT -->						
+		</div>
+				
+	</div>
+    </div>	
+    <!-- END FOOTER -->
+
+
+</div>
+<!-- END MAINWRAPPER -->
+
+</body>
+</html>
